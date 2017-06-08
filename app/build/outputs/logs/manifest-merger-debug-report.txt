@@ -1,0 +1,93 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\IAK\MoviePopular\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from E:\IAK\MoviePopular\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from E:\IAK\MoviePopular\app\src\main\AndroidManifest.xml
+		INJECTED from E:\IAK\MoviePopular\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\IAK\MoviePopular\app\src\main\AndroidManifest.xml
+		INJECTED from E:\IAK\MoviePopular\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\IAK\MoviePopular\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\IAK\MoviePopular\app\src\main\AndroidManifest.xml
+		INJECTED from E:\IAK\MoviePopular\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\IAK\MoviePopular\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\IAK\MoviePopular\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from E:\IAK\MoviePopular\app\src\main\AndroidManifest.xml:6:5-20:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\El Haries\.android\build-cache\aa72fd2bb9bf5015647bfc634045cc6b4b436504\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\El Haries\.android\build-cache\1ea58fd9208fb91888bdfb4f84e347298f78c805\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\El Haries\.android\build-cache\d41422b9a79d24c75e599479bb8bfa08a9ba1002\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\El Haries\.android\build-cache\a1bfa734a6fa79ba58294a1afe2f4f44469e1997\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\El Haries\.android\build-cache\da5305ed2896f226a63132d779dcc3f6850accda\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\El Haries\.android\build-cache\35054f4ca66a5993347ed0bfe38936b575aa79b7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\El Haries\.android\build-cache\d307f99361fbb634f33f4bc7bbc1e905cfe5c18d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Users\El Haries\.android\build-cache\968bc68e4ea10835e2be8a8a6f8670ba5272908c\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\El Haries\.android\build-cache\9ca194ea11f407eb7628a2fad0deb60d3809c3a9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\El Haries\.android\build-cache\7833289ed2558669a1685ca07992b455d453920b\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\IAK\MoviePopular\app\src\main\AndroidManifest.xml:9:9-41
+	android:supportsRtl
+		ADDED from E:\IAK\MoviePopular\app\src\main\AndroidManifest.xml:11:9-35
+	android:roundIcon
+		ADDED from E:\IAK\MoviePopular\app\src\main\AndroidManifest.xml:10:9-54
+	android:allowBackup
+		ADDED from E:\IAK\MoviePopular\app\src\main\AndroidManifest.xml:7:9-35
+	android:icon
+		ADDED from E:\IAK\MoviePopular\app\src\main\AndroidManifest.xml:8:9-43
+	android:theme
+		ADDED from E:\IAK\MoviePopular\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.appku.elharies.moviepopular.MainActivity
+ADDED from E:\IAK\MoviePopular\app\src\main\AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from E:\IAK\MoviePopular\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\IAK\MoviePopular\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from E:\IAK\MoviePopular\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from E:\IAK\MoviePopular\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\IAK\MoviePopular\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from E:\IAK\MoviePopular\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from E:\IAK\MoviePopular\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\El Haries\.android\build-cache\aa72fd2bb9bf5015647bfc634045cc6b4b436504\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\El Haries\.android\build-cache\1ea58fd9208fb91888bdfb4f84e347298f78c805\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\El Haries\.android\build-cache\d41422b9a79d24c75e599479bb8bfa08a9ba1002\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\El Haries\.android\build-cache\a1bfa734a6fa79ba58294a1afe2f4f44469e1997\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\El Haries\.android\build-cache\da5305ed2896f226a63132d779dcc3f6850accda\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\El Haries\.android\build-cache\35054f4ca66a5993347ed0bfe38936b575aa79b7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\El Haries\.android\build-cache\d307f99361fbb634f33f4bc7bbc1e905cfe5c18d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-beta4] C:\Users\El Haries\.android\build-cache\968bc68e4ea10835e2be8a8a6f8670ba5272908c\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\El Haries\.android\build-cache\807f2778c6abb91dabda861a9aa453bc59bb672c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\El Haries\.android\build-cache\9ca194ea11f407eb7628a2fad0deb60d3809c3a9\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\El Haries\.android\build-cache\7833289ed2558669a1685ca07992b455d453920b\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\El Haries\.android\build-cache\aa72fd2bb9bf5015647bfc634045cc6b4b436504\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\IAK\MoviePopular\app\src\main\AndroidManifest.xml
+		INJECTED from E:\IAK\MoviePopular\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\IAK\MoviePopular\app\src\main\AndroidManifest.xml
+		INJECTED from E:\IAK\MoviePopular\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\El Haries\.android\build-cache\aa72fd2bb9bf5015647bfc634045cc6b4b436504\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\El Haries\.android\build-cache\1ea58fd9208fb91888bdfb4f84e347298f78c805\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\El Haries\.android\build-cache\d41422b9a79d24c75e599479bb8bfa08a9ba1002\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\El Haries\.android\build-cache\a1bfa734a6fa79ba58294a1afe2f4f44469e1997\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\El Haries\.android\build-cache\da5305ed2896f226a63132d779dcc3f6850accda\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\El Haries\.android\build-cache\35054f4ca66a5993347ed0bfe38936b575aa79b7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\El Haries\.android\build-cache\d307f99361fbb634f33f4bc7bbc1e905cfe5c18d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\El Haries\.android\build-cache\807f2778c6abb91dabda861a9aa453bc59bb672c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\El Haries\.android\build-cache\9ca194ea11f407eb7628a2fad0deb60d3809c3a9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\El Haries\.android\build-cache\7833289ed2558669a1685ca07992b455d453920b\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\El Haries\.android\build-cache\aa72fd2bb9bf5015647bfc634045cc6b4b436504\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\El Haries\.android\build-cache\aa72fd2bb9bf5015647bfc634045cc6b4b436504\output\AndroidManifest.xml:26:9-47
